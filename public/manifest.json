@@ -1,0 +1,21 @@
+{
+  "name": "Al-Tofiq Fruit Market",
+  "short_name": "TofiqMarket",
+  "description": "Smart PWA app for fruit and grocery market",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#10b981",
+  "icons": [
+    {
+      "src": "/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
